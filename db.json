@@ -2,7 +2,10 @@
     "isSuccess": true,
     "errorMessage": null,
     "openHouseList": [{
-            "photos": ["https://raw.githubusercontent.com/austonpramodh-ces/db/master/outsite-co-R-LK3sqLiBw-unsplash.jpg"],
+            "photos": [{
+                "name": "Hello world",
+                "url": "https://raw.githubusercontent.com/austonpramodh-ces/db/master/outsite-co-R-LK3sqLiBw-unsplash.jpg"
+            }],
             "agentName": null,
             "agentWorkPhone": null,
             "extension": null,
@@ -101,7 +104,10 @@
             "hO6": "30.00"
         },
         {
-            "photos": ["https://raw.githubusercontent.com/austonpramodh-ces/db/master/outsite-co-R-LK3sqLiBw-unsplash.jpg"],
+            "photos": [{
+                "name": "Hello world",
+                "url": "https://raw.githubusercontent.com/austonpramodh-ces/db/master/outsite-co-R-LK3sqLiBw-unsplash.jpg"
+            }],
             "agentName": null,
             "agentWorkPhone": null,
             "extension": null,
@@ -200,7 +206,10 @@
             "hO6": "30.00"
         },
         {
-            "photos": ["https://raw.githubusercontent.com/austonpramodh-ces/db/master/outsite-co-R-LK3sqLiBw-unsplash.jpg"],
+            "photos": [{
+                "name": "Hello world",
+                "url": "https://raw.githubusercontent.com/austonpramodh-ces/db/master/outsite-co-R-LK3sqLiBw-unsplash.jpg"
+            }],
             "agentName": null,
             "agentWorkPhone": null,
             "extension": null,
@@ -299,7 +308,10 @@
             "hO6": "30.00"
         },
         {
-            "photos": ["https://raw.githubusercontent.com/austonpramodh-ces/db/master/outsite-co-R-LK3sqLiBw-unsplash.jpg"],
+            "photos": [{
+                "name": "Hello world",
+                "url": "https://raw.githubusercontent.com/austonpramodh-ces/db/master/outsite-co-R-LK3sqLiBw-unsplash.jpg"
+            }],
             "agentName": null,
             "agentWorkPhone": null,
             "extension": null,
